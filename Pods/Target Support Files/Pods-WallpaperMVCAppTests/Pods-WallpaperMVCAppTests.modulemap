@@ -1,0 +1,6 @@
+framework module Pods_WallpaperMVCAppTests {
+  umbrella header "Pods-WallpaperMVCAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
